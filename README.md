@@ -1,5 +1,5 @@
 # Cross-Lingual Similarity and Semantic Search with Cohere Multilingual API
-### setup requirement libraries 
+### setup requirements 
 * cohere
 * bokeh
 * annoy
